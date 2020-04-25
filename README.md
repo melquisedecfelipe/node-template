@@ -42,11 +42,8 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 # Clone this repository
 $ git clone https://github.com/melquisedecfelipe/node-template
 
-# Go into the repository
-$ cd node-template
-
-# Go into the backend and install dependencies
-$ cd backend && yarn
+# Go into the repository and install dependencies
+$ cd node-template && yarn
 
 # Run backend
 $ yarn dev
