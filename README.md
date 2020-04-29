@@ -28,8 +28,6 @@
 
 This project was developed with the following technologies:
 
-Backend
-
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Typescript](https://www.typescriptlang.org/)
